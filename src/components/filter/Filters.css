@@ -1,0 +1,14 @@
+.radio {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid purple;
+  padding: 10px;
+  margin-right: 10px;
+}
+.todos {
+  margin: 10px 0;
+}
+
+.ver {
+  margin-top: 5px;
+}
